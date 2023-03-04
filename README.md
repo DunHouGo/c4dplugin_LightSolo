@@ -1,7 +1,7 @@
 ### Cinema 4D灯光独显插件
 
 <aside>
-🔒 当前版本 ：1003
+🔒 当前版本 ：1004
 
 </aside>
 
@@ -18,7 +18,7 @@
 - 推荐使用PluginManager统一管理安装更新：[PluginManager](https://www.notion.so/Plugin-Manager-72c5fe979541467187af2060fe330e80)
 - 解压文件夹,复制到C4D的plugin文件夹下
 
-> `%AppData%\Maxon\Maxon Cinema 4D R2x_xxxxxxxx\plugins\CINEMA 4D R2x\plugins\Boghma`
+> `%AppData%\Maxon\Maxon Cinema 4D R2x_xxxxxxxx\plugins\Boghma`
 > 
 
 <aside>
